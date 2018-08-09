@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">RecyclerViewListener</string>
+    <string-array name="city_keys">
+        <item>newyork</item>
+        <item>tokyo</item>
+        <item>london</item>
+        <item>shanghai</item>
+        <item>beijing</item>
+        <item>moscow</item>
+        <item>hongkong</item>
+        <item>mumbai</item>
+        <item>singapore</item>
+        <item>chicago</item>
+    </string-array>
+
+    <string name="name_newyork">Nova Iorque</string>
+    <string name="desc_newyork">Sim, a cidade mais movimentada do mundo não é outra senão a maior metrópole americana - a cidade de Nova York. Jampacked com a passagem de multidões, testemunhando a agitação contínua, esta é a cidade que nunca dorme. A Bolsa de Valores de Nova York é a maior e mais movimentada do mundo em termos de número de transações e capitalização de mercado. Faz desta cidade um símbolo do capitalismo dos EUA, poder e sofisticação e glamour. Além da população original de 8,3 milhões, a cidade também atrai 50 milhões de turistas anualmente para testemunhar alguns marcos notáveis ​​como a Estátua da Liberdade, Times Square, sede da ONU, teatro da Broadway, Wall Street, Brooklyn Bridge, Chinatown e o Estado empírico. construção.</string>
+
+    <string name="name_tokyo">Tóquio</string>
+    <string name="desc_tokyo">Tóquio, a capital japonesa é a maior cidade do mundo, com uma população enorme de mais de 35 milhões. A cidade alfa + é uma das 47 prefeituras do Japão e também a maior economia de aglomeração do mundo. Com uma paridade de poder de compra maior que a de Nova York, a cidade detém o maior número (51) das 500 empresas da Forbes Global. Um lar da família imperial japonesa, Tóquio também é um centro cultural, além de ser o centro de comando econômico (juntamente com Londres e Nova York). É o mais agitado centro urbano contemporâneo do mundo, graças à carga adicional de visitantes, já que Tóquio é repleta de atrações turísticas. </string>
+
+    <string name="name_london">Londres</string>
+    <string name="desc_london">Londres é a maior e mais populosa área urbana da terra da União Europeia. A cidade líder global de Londres tem uma rica história associada a ela e tem uma forte influência nas áreas de moda, entretenimento, comércio, educação e mídia. Juntamente com Nova York e Tóquio, é o centro de comando da economia mundial. A bolsa de valores de Londres é a mais movimentada e importante da Europa. O sistema de transporte de Londres, incluindo o metrô e os ônibus, é considerado o melhor do mundo. Atraindo mais visitantes do que qualquer outro lugar, o sistema aeroportuário da cidade é também o mais movimentado em termos de tráfego de passageiros. </string>
+
+    <string name="name_shanghai">Shanghai</string>
+    <string name="desc_shanghai">Now here is the largest metropolis of China in terms of population – housing more than 23 million is people is the landmark city of Shanghai, located in China. Situated along the Yangtze River, Shanghai holds a strategic position and could well be the future financial center of the world, considering the fast growth of Chinese economy (Shanghai is often described as showpiece of China’s booming economy). It is a major administrative, shipping and trading city. This global city also has an extensive transport system of buses and metro, and also the world’s busiest container port.</string>
+
+    <string name="name_beijing">Beijing</string>
+    <string name="desc_beijing">Pequenas surpresas sobre isso - a capital do país mais populoso do mundo teve que encontrar um lugar na lista. A antiga cidade magnética é um centro de cultura e política na China, com uma população urbana que ficou em 20.693.000 em 2012. É a segunda maior cidade chinesa em população e também um importante centro ferroviário, rodovia nacional, via expressa e alta velocidade redes ferroviárias. O aeroporto de Pequim é o segundo aeroporto internacional mais movimentado do mundo. A cidade é conhecida pela sua história, monumentos, muralhas, tesouros de arte, jardins e templos que lhe dão milhões de turistas anualmente.</string>
+
+    <string name="name_moscow">Moscou</string>
+    <string name="desc_moscow">A capital de Moscou, também a megacidade mais ao norte do mundo, é o centro cultural, político, científico e econômico da Rússia e da Eurásia. Este centro urbano caro é o lar de uma população de 10.500.000 habitantes e um sistema de metrô com carga máxima. O metrô de Moscou, com 188 estações, é a linha vital da movimentada Moscou e a maioria evita o transporte rodoviário para que não fiquem presos a um engarrafamento irritante. Seu significado histórico, estruturas antigas, apelo cultural, maravilhas arquitetônicas, pontos de referência, destinos incríveis de compras e instalações sofisticadas atraem cada vez mais turistas a cada ano.</string>
+
+    <string name="name_hongkong">Hong Kong</string>
+    <string name="desc_hongkong">Hong Kong é uma cidade alfa +, a quinta mais importante depois de Nova York, Londres, Tóquio e Paris. Esta cidade é uma residência de 7 milhões de pessoas, tornando-se uma das regiões mais densamente povoadas do mundo. É talvez a cidade mais moderna, verde e de alta tecnologia do mundo. É conhecida por seu profundo porto natural, uma economia de serviço capitalista importante, livre comércio, impostos baixos e é um dos principais centros comerciais do mundo. Possui também arquitetura moderna, sistema de transporte altamente desenvolvido e oferece grande qualidade de vida aos seus moradores.</string>
+
+    <string name="name_mumbai">Mumbai</string>
+    <string name="desc_mumbai">Mumbai é uma cidade metropolitana indiana com mais de 20 milhões de habitantes, o que a torna a cidade mais populosa da Índia e a quarta cidade mais populosa do mundo. Além disso, é também a mais rica cidade indiana com o maior porto do oeste da Índia e orgulhosamente se destaca como a capital financeira do subcontinente. Todos os anos milhares de pessoas migram para este caldeirão de culturas que é bem ligado pelos sistemas de transporte, a fim de encontrar um melhor padrão de vida. Esta capital comercial e de entretenimento da Índia, também considerada a cidade dos sonhos, responsável por 70% de todas as transações econômicas na Índia, mantém todos os seus habitantes e visitantes em seus dedos</string>
+
+    <string name="name_singapore">Cingapura</string>
+    <string name="desc_singapore">Cingapura, a cidade do leão, é uma cidade-estado soberana com uma população de mais de 5 milhões de habitantes. É uma nação insular politicamente estável e segura, com comida deliciosa e pessoas harmoniosas. A principal indústria de ganhadores do país é o turismo, com mais de 8 milhões de pessoas visitando Cingapura anualmente, seguidas pela construção naval. Se você deseja ver uma explosão de vibração urbana, você deve visitar Cingapura uma vez. O que torna Cingapura extremamente importante e desenvolvida é sua localização oceânica estratégica. Estruturas desenvolvidas de alta tecnologia, as movimentadas companhias aéreas de Cingapura, pessoas entrando e saindo de edifícios, uma atmosfera cosmopolita e grandes lojas caracterizam a cidade de Cingapura.</string>
+
+    <string name="name_chicago">Chicago</string>
+    <string name="desc_chicago">A terceira maior cidade dos Estados Unidos em termos de população, somente depois de Nova York e Los Angeles, Chicago é o lar de mais de 2,7 milhões de pessoas pertencentes a diferentes culturas e etnias. É o epicentro econômico, educacional, cultural e industrial do estado da América Centro-Oeste. O aeroporto da cidade é o segundo mais movimentado do mundo e a cidade está repleta de emigrantes e turistas. Tem provavelmente o melhor horizonte da cidade, com algumas torres mais altas do planeta e também tem uma variedade de monumentos, museus, atrações comerciais e outros locais de interesse que atraem pessoas de todo o mundo, ganhando um lugar no top 10 lista de cidades mais movimentadas.</string>
+</resources>
+

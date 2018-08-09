@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Testeapp</string>
+    <string name="nome">Digite aqui o nome</string>
+    <string name="botaoLogin">Login</string>
+    <string name="Senha">Digite a sua Senha Abaixo</string>
+    <string name="botaoCancelar">Cancelar</string>
+
+</resources>

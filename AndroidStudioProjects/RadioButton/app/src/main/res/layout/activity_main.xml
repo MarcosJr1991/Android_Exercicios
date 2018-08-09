@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="@drawable/sp">
+
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    <RadioButton
+        android:id="@+id/rb1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="opçao 1 "/>
+
+    <RadioButton
+        android:id="@+id/rb2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="opção 2 "/>
+
+    </RadioGroup>
+
+    <CheckBox
+        android:id="@+id/cb1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="opção 3 "/>
+
+    <CheckBox
+        android:id="@+id/cb2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="opção 4 "/>
+
+    <Button
+        android:id="@+id/btnselecione"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Selecione"/>
+    <TextView
+        android:id="@+id/tvresposta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Selecionado"/>
+
+</LinearLayout>
